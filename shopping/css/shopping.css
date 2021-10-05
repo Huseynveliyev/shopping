@@ -1,0 +1,548 @@
+ body{
+    margin:0 auto;
+    padding: 0;
+} 
+
+header{height:40px;}
+
+
+#darkgrey{
+    width: 86%;
+}
+    
+#container{
+    width: 100%;
+    background:#434343;
+    height: 57px; 
+
+}
+.select_menu{
+    width: 41%;
+    float: left;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 8px;
+}
+
+.login_menu{
+    width: 26%;
+    float: right;
+    display: flex;
+    color: #00fff3;
+    justify-content: space-around;
+    line-height: 35px;
+    font-size: 15px;
+}
+select{
+    font-family: system-ui;
+    background: none;
+    color: #f5eaed;
+    border: none;
+    border-right: 2px solid white;
+    font-size: 14px;
+}
+
+.login_menu div a{
+    text-decoration: none;
+    font-family: system-ui;
+    color: white;
+}
+.second_layer{
+    width: 100%;
+    background: #363636;
+    height: 125px;
+    display: flex;
+    justify-content: space-around;
+}
+.second_layer div{
+    line-height: 16px;
+    margin-left: -8%;
+    margin-top: 43px;
+    font-size: 18px;
+    font-family: cursive;
+    letter-spacing: 2px;
+}
+.second_layer div i{
+    font-size: 29px;
+    color: goldenrod;
+    border-radius: 60%;
+}
+ .second_layer div i:hover{
+   background-color: rgb(245, 82, 7);
+ }
+
+
+.Three_layer{
+    width: 91%;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    line-height: 39px;
+    padding: 9px;
+}
+.list_menu{
+    display: flex;
+    width: 52%;
+    justify-content: space-between;
+}
+
+.select_category{
+  border: 1px solid;
+  text-align: center;
+  width: 27%;
+  height: 39px;
+  margin-top: 4px;
+}
+
+.select_category i{
+   font-size:18px;
+   
+}
+.select_category select{
+    color: slategrey;
+    border-right: 1px solid;
+    margin-right: 5px;
+}
+.select_category input{
+    border:none;
+    width: 34%;
+}
+.select_category #search{
+    margin-left: -5px;
+}
+.list_menu div a{
+    text-decoration: none;
+    font-family: cursive;
+    font-size: large;
+    color: goldenrod;
+}
+
+.step1{
+    width: 91%;
+    margin: 0 auto;
+}
+.hot_deals img{
+        width: 253px;
+        height: 239px;
+ }
+.hot_deals{
+    width: 70%;
+    border: 1px solid #ffc4c47a;
+}
+.add_card{
+    width: 9%;
+    height: 28px;
+    position: absolute;
+    margin-top: -32px;
+    left: 61px;
+    color: white;
+    background: black;
+    line-height: 29px;
+    text-indent: 2px;
+    border-radius: 5px;
+}
+
+.discount_date{
+    width: 62%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 8px;
+    margin-left: 4%;
+}
+.discount_date div{
+    color: white;
+    background: #5f5a5aad;
+    border-radius: 100%;
+    width: 19%;
+    text-align: center;
+    font-weight: 600;
+    height: 46px;
+}
+.brisque{
+    width: 70%;
+    text-align: center;
+    border: 1px solid #dec5c573;
+    margin-top: 10px;
+}
+.brisque div {
+    text-align: start;
+    margin-left: 20px;
+}
+.brisque div img{
+    width: 9%;
+    border: 1px solid #948d8d;
+    height: 18px;
+    padding: 3px;
+}
+
+
+
+.brisque .price{
+    text-align: end;
+    margin-top: -22px;
+    position: relative;
+    left: -13px;
+}
+.no-js .owl-carousel, .owl-carousel.owl-loaded {
+    display: block;
+    width: 96%;
+}
+.owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    -webkit-transform: translate3d(0,0,0);
+    height: 430px;
+}
+
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+    height: 434px;
+}
+
+
+
+.shop-prew {
+    width:  30%;
+    float: left;
+}
+
+.prew-carousel {
+    float: left;
+    width: 70% !important; 
+    
+}
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+    height: 434px;
+}
+
+.list_menu div a:hover{
+    background-color: goldenrod; 
+    color:white;
+}
+
+.step2{
+        clear: both;
+        width: 90%;
+        margin: 0 auto;
+        height: 150px;
+        display: flex;
+        justify-content: space-between;
+        position: relative;
+        top: 39px;
+        text-align: center;
+        font-family: 'Poppins-SemiBold', Arial, Helvetica, sans-serif;
+}
+    
+.step2 div{
+    width: 20%;
+    border: 1px solid #80808085;
+
+}
+
+.rod{
+         margin-top: -25px;
+        margin-left: 95px;
+        width: 30%;
+        height: 49px;
+        line-height: 59px;
+        border-radius: 100%;
+        background: rgb(252, 181, 28);
+    }
+
+    
+.rod:hover{
+    background-color: #e6f0ed; 
+}
+option{
+    background-color: #716d6d;
+}
+
+.promo{
+    width: 90%;
+    margin: auto;
+    clear: both;
+    margin-top: 87px;
+    height: 433px;
+}
+.promo .guest_room{
+    width: 45%;
+    float: left;
+}
+
+.css {
+        width: 100%; 
+        height: 420px;
+        background-image: url("../img/promo-image-big.jpg");
+        background-size: contain;
+        background-repeat: round;
+    }
+        
+
+
+.css2{
+        height:300px;  
+        margin: 0 auto;          
+        background-color: rgba(42, 42, 42, 0.4);
+        position: relative; 
+        top: 38px;
+        line-height: 30px; 
+         width: 77%;
+        display: flex;
+        flex-direction: column-reverse; 
+        font-size: 30px;
+        font-family: 'Poppins-Regular', Arial, Helvetica, sans-serif;
+         padding: 14px;
+        color:#ffffff;}
+      
+  .guest-room h4, .guest-percent h2, .guest-sofa h1 {
+        margin-top: 7px;
+        margin-bottom: 21px;
+  }
+  .guest-percent h2 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        font-weight: inherit;
+  }
+.guest-percent {
+    width: 105px;
+    border: solid;
+    text-align: center;
+    line-height: 27px;
+    outline: groove;
+    outline-offset: 2px;
+
+}
+
+.promo_2{
+    width: 49%;
+    height: 187px;
+    float: right;
+}
+.small-item{
+    display: flex;
+    height: 93%;
+    margin-top: 6px;
+    margin-bottom: 62px;
+    font-family: cursive;
+}
+.small-item .img{
+    width: 200px;
+    height: 174px;
+}
+.small-item .img img{
+    width: 200px;
+    height: 175px;
+}
+.office_chair{
+    width: 58%;
+    text-align: center;
+    background: #e8edf7;
+    border: 1px dotted yellow;
+    font-style: italic;
+}
+.office_chair h1{
+    font-weight: 100;
+}
+.office_chair h3 {
+    font-weight: 100;
+}
+.office_chair h2 {
+    font-weight: 100;
+    color: #41b8e6f2;
+}
+
+.new-furniture{
+    width: 88%;
+    height: 883px;
+    margin-top: 64px;
+    font-family: 'Poppins-SemiBold', Arial, Helvetica, sans-serif;
+    margin-left: 5%;
+}
+
+.center{
+    height: 32px;
+    border-bottom: 3px solid #e2e2e2;
+    margin-bottom: 33px;
+    width: 98%;
+}
+
+
+.Bed {
+    float: left;
+}
+.Bed h2{
+    margin: 0;
+    font-size: 22px;
+    color: #d58e32;
+    font-style: italic;
+}
+.main-list{
+    display: flex;
+    justify-content: center;
+    width: 72%;
+}
+.main-list div{
+    margin-right: 51px;
+    height: 32px;
+    font-family: cursive;
+}
+.main-list div a{
+    text-decoration: none;
+    color:#000000;
+    font-weight: 600
+}
+.main-list div:hover{
+     border-bottom: 3px solid #d58e32;
+}
+.bedroom-list{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.bedroom-list .shop-prew{
+    width: 24%;
+    margin-right: 1%;
+    margin-bottom: 2%;
+}
+
+.bedroom-list .shop-prew .hot_deals{
+    width: 90%;
+    border:none;
+}
+.bedroom-list .shop-prew .brisque{
+    width: 89%;
+}
+.bedroom-list .shop-prew .brisque .price {
+    margin-bottom: 10px;
+}
+
+.bedroom-list .shop-prew .brisque div a:hover img{
+    border:none;
+}
+
+.blog{
+    width: 85%;
+    height: 500px;
+    margin-left: 5%;
+}
+.blog .latest-blog{
+    color: #ffac41;
+    height: 34px;
+    border-bottom: 2px solid #d1ebeb;
+    font-style: italic;
+}
+
+.main-product{
+    margin-top: 28px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+ 
+}
+.we-info{
+    width: 33%;
+}
+.failure img{
+    width: 333px;
+    height: 260px;
+}
+.we-info .blog-content{
+    width: 69%;
+    background: white;
+    color: #403a3a;
+    border: 1px solid white;
+    position: relative;
+    top: -63px;
+    left: 33px;
+    text-align: center;
+    font-family: system-ui;
+    font-size: 14px;
+
+}
+.blog-content button{
+    padding: 11px;
+    color: #1b1b1b;
+    background:#ffe066;
+    border: none;
+    border-radius: 6%
+}
+.blog-content button:hover{
+    background-color: #f7cc94;
+
+}
+.blog-content span{
+    position: relative;
+    top: 15px;
+    left: -12px;
+    margin-left: 14px;
+}
+
+
+.feedback{
+    width: 85%;
+    margin: 0 auto;
+    height: 308px;
+    margin-top: 80px;
+}
+.clients-feedback{
+    border-bottom: 3px solid #e2e2e2;
+    color: #e6c05f;
+    font-family: monospace;
+    font-size: 15px;
+    text-align: center;
+}
+.customer{
+    margin-top: 40px;
+}
+.customer img{
+    width: 60px;
+    height: 60px;
+}
+.customer span{
+    font-family: cursive;
+    font-weight: 700;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 11px;
+}
+.link{
+    width: 100%;
+    background-color: #3c1313d9;
+    color: #a9a9a9;
+    height: 250px;
+   
+}
+
+.we-links{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 52px;
+
+}
+.information ul li a{
+    text-decoration: none;
+    color: #a9a9a9;
+
+}
+.information ul{
+    list-style: none;
+}
+ul li{
+     margin-bottom: 7px;
+     margin-left: -22%;
+}
+footer{  
+    background-color: #460606;
+    color: #a9a9a9;
+    width: 100%;
+    height: 59px;
+    position: absolute;
+    text-align: center;
+}

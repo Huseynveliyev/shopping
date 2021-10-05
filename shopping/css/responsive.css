@@ -1,0 +1,223 @@
+ 
+@media screen and (max-width:1350px){
+    .shop-prew .brisque {
+        width: 69%!important;
+    }
+
+
+@media screen and (max-width:976px){
+    #darkgrey {
+       min-width: 94%!important;
+       height: 72px!important;
+    }
+    .list_menu{
+        margin-top: 16px!important;
+    }
+}
+
+@media screen and (max-width:1033px){
+    .Three_layer {  flex-direction: column!important;;
+                     height: auto!important;;}
+     .select_category {
+                        width: 100%!important;;}
+    .list_menu{width: 100%!important;;}                
+
+}
+
+@media screen and (max-width:920px){
+    .show-prew{
+        width: 27%!important;
+    }
+     .hot-deals{
+         width: 70%!important;
+     }
+     
+     .hot_deals img {
+        width: 220px!important;
+         height: 239px;}
+
+     .add_card{
+         width: 15%!important;
+     }    
+
+     }
+     @media screen and (max-width:893px){
+        .login_menu {
+            width: 34%!important;}
+         .step2 {
+            flex-wrap: wrap!important;
+            height: auto!important;
+           
+        }
+         
+        .step2 div {
+            width: 34%!important;
+           
+            margin-bottom: 36px!important;;
+        }
+
+     }
+
+@media screen and (max-width:1058px) {
+   .blog{      height: auto!important;
+
+   }
+    .main-product{
+        flex-wrap: wrap!important;
+    }
+
+    .we-info {
+        width: 62%!important;}
+   
+
+        .failure img {
+            width: 550px!important;
+            height: 260px;}
+
+
+}
+
+@media screen and (max-width:798px){
+    .shop-prew {
+        width: 100%!important;
+        float: none!important;
+    }
+    .hot_deals {
+        width: 100%!important;}
+   
+        .hot_deals img {
+            height: 239px;
+            width: 100%!important;
+        } 
+        .discount_date {
+            width: 87%!important;}
+
+        .shop-prew .brisque{
+            width: 100%!important;
+        }
+        .new-furniture { 
+                 height: auto!important;}
+
+         .prew-carousel{
+             margin-left: 8%!important; 
+            left: 34px!important;
+            top: 38px!important;
+         }
+         .promo .guest_room {
+            width: 100%!important;}
+        
+         .css{
+            background-size: auto!important;
+         }
+          
+         .promo{
+             height: 834px!important;
+         }
+         .promo_2{
+                width: 100%!important;
+         }
+
+        }
+
+@media screen and (max-width:683px) {
+    .login_menu{
+        width: 55%!important;
+    }
+     #container{
+         width: 104%!important;
+     }
+     .second_layer{
+         width: 110%!important;
+     }
+     .main-list {
+        width: 100%!important;
+    }
+    .link{
+     
+            width: 104%!important;
+    }
+    footer{
+        width: 104%!important;
+    }
+
+}
+
+@media screen and (max-width:738px){
+    .we-info{
+    
+            width: 88%!important;
+        
+    }
+}
+@media screen and (max-width:540px){
+    #container{
+        width: 616px!important;
+    }
+    .failure img {
+        width: 411px!important;}
+}
+@media screen and (max-width:471px){
+    .second_layer {
+        width: 642px!important;
+    }
+    .list_menu {
+        width: 118%!important;
+    }
+    
+}
+
+@media screen and (max-width:517px){
+    .second_layer {
+        width: 662px!important;
+    }
+    .select_category {
+        width: 564px!important;
+    }
+    .list_menu {
+        width: 126%!important;
+    }
+    .shop-prew {
+        width: 117%!important;}
+        .add_card {
+            width: 31%!important;
+        }
+        .shop-prew .brisque {
+            width: 107%!important;}}
+         
+            .rod {
+                margin-left: 49px!important;}
+                .promo .guest_room {
+                    width: 564px!important;
+                }
+                
+                .small-item {
+                    width: 132%!important;
+                }         
+                .shop-prew .brisque {
+                    width: 96%!important;
+                }
+                .new-furniture {
+                    width: 108%!important;
+                }
+@media screen  and (max-width:449px){
+    #container {
+        width: 668px!important;
+    }
+    .step1 {
+        width: 125%!important;}
+
+        .step2 div {
+            width: 71%!important;
+            margin-bottom: 36px!important;
+            margin-left: 26%!important;
+            margin-top: 38px!important;}
+
+        .rod{
+            position: relative!important;
+            left: -31px!important;;
+            top: -58px!important;;}
+
+         .bedroom-list {
+             width: 122%!important;}}
+         
+         }
